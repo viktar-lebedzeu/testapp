@@ -13,6 +13,5 @@ public class ApplicationTest {
     public void testMain() {
         Application.main();
         Assertions.assertTrue(true);
-
     }
 }
